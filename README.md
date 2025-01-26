@@ -4,9 +4,10 @@
 멋쟁이 사자처럼 11기 프론트엔드-백엔드 첫 협업 연습
 <br>
 
-![image](https://github.com/user-attachments/assets/47ea2496-7f44-4642-8f61-975c9ed42207)
-<br>
-![image](https://github.com/user-attachments/assets/97404cfe-79d5-4cf4-a140-8ac10744511e)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/47ea2496-7f44-4642-8f61-975c9ed42207" alt="image1" style="width: 48%;">
+  <img src="https://github.com/user-attachments/assets/97404cfe-79d5-4cf4-a140-8ac10744511e" alt="image2" style="width: 48%;">
+</div>
 <br>
 
 🔎 Description <br>
