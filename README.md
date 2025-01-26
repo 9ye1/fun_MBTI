@@ -12,3 +12,4 @@
   Frontend - html, css, javascript <br>
   Backend - spring boot, mysql <br>
 
+![image](https://github.com/user-attachments/assets/47ea2496-7f44-4642-8f61-975c9ed42207)
