@@ -5,7 +5,9 @@
 <br>
 
 ![image](https://github.com/user-attachments/assets/47ea2496-7f44-4642-8f61-975c9ed42207)
-<br><br>
+<br>
+![image](https://github.com/user-attachments/assets/97404cfe-79d5-4cf4-a140-8ac10744511e)
+<br>
 
 🔎 Description <br>
 1. 버튼을 통해 MBTI 선택 시 저장되어있는 랜덤 특징 확인 <br>
