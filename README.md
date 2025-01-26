@@ -9,6 +9,6 @@
 2. 버튼을 통해 MBTI 선택 시 저장되어있는 랜덤 특징 확인 <br>
 
 🔧 Tool <br>
-Frontend - html, css, javascript <br>
-Backend - spring boot, mysql <br>
+  Frontend - html, css, javascript <br>
+  Backend - spring boot, mysql <br>
 
